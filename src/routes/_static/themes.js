@@ -100,7 +100,13 @@ const themes = [
     label: 'Dark Grayscale',
     dark: true,
     color: '#666'
-  }
+  },
+  {
+    name: 'witches-colors',
+    label: 'Witches Colors',
+    dark: true,
+    color: '#a288db'
+  },
 ]
 
 export { themes }
